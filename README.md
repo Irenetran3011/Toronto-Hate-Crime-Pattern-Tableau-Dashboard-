@@ -2,7 +2,7 @@ Project Overview
 
 Reported hate crime incidents in Toronto increased sharply after 2022. This project explores whether that increase was associated with particular bias motivations, neighbourhoods, offence types, and arrest outcomes. The analysis supports moving from a general city-wide response toward targeted monitoring, prevention, outreach, reporting support, and enforcement review.
 
-Dashboard_overview.png
+![Toronto Hate Crime Patterns Dashboard](Dashboard_overview.png)
 
 ## Research Questions
 

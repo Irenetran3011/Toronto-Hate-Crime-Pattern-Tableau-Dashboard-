@@ -2,6 +2,8 @@ Project Overview
 
 Reported hate crime incidents in Toronto increased sharply after 2022. This project explores whether that increase was associated with particular bias motivations, neighbourhoods, offence types, and arrest outcomes. The analysis supports moving from a general city-wide response toward targeted monitoring, prevention, outreach, reporting support, and enforcement review.
 
+Dashboard_overview.png
+
 ## Research Questions
 
 1. Have reported hate crime incidents increased or decreased over time?
@@ -89,14 +91,6 @@ The dataset-level arrest rate presented in the analysis was approximately **22%*
     ├── neighbourhood-hotspots.png
     └── arrest-outcomes-by-offence.png
 ```
-
-## Viewing the Tableau Workbook
-
-1. Download the `.twbx` file from the `tableau` folder.
-2. Open it with Tableau Desktop or [Tableau Reader](https://www.tableau.com/products/reader).
-3. Use the available filters, tooltips, and interactive chart elements to explore the results.
-
-GitHub cannot display an interactive Tableau packaged workbook directly in the browser. Dashboard screenshots are therefore included in the `images` folder as a preview.
 
 
 ## Limitations and Responsible Interpretation

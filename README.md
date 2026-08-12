@@ -75,23 +75,6 @@ The dataset-level arrest rate presented in the analysis was approximately **22%*
 - Interactive dashboard design
 - Data storytelling and business recommendations
 
-## Repository Structure
-
-```text
-.
-├── README.md
-├── tableau/
-│   └── toronto-hate-crime-patterns.twbx
-├── presentation/
-│   └── toronto-hate-crime-patterns-presentation.pptx
-└── images/
-    ├── dashboard-overview.png
-    ├── annual-trend.png
-    ├── bias-motivation-profile.png
-    ├── neighbourhood-hotspots.png
-    └── arrest-outcomes-by-offence.png
-```
-
 
 ## Limitations and Responsible Interpretation
 
